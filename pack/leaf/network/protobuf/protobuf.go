@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/golang/protobuf/proto"
+	"server/pack/protobuf/proto"
 	"server/pack/leaf/chanrpc"
 	"server/pack/leaf/log"
 	"math"
